@@ -1,0 +1,44 @@
+#canvas{
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+}
+
+div.randomWordLetter {
+  border: 2px solid black;
+  height: auto;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  width: 20px;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  text-align: center;
+  display: inline-block;
+}
+
+div.letterContainer {
+  border: 1px solid black;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  height: 20px;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  width: 20px;
+  text-align: center;
+  display: inline-block;
+}
+
+div.alphabet{
+  border: 1px dotted green;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  height: 40px;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  width: 40px;
+  display: inline-block;
+  text-align: center;
+}
+
+div.alphabetWrapper{
+  /*border: 1px dotted green;*/
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  height: 40px;
+  /*may need to come back and adjust all div heights and widths to auto when i change fonts*/
+  width: 40px;
+  display: inline-block;
+}
